@@ -1,3 +1,12 @@
+% ----------------------------------------------------------------------------------------------
+% | Here is the codes that was used to construct this part of the toolbox                      |
+% | References used in the code:                                                               |
+% | Image Analyst (2015). Image Segmentation Tutorial                                          |
+% | https://www.mathworks.com/matlabcentral/fileexchange/25157-image-segmentation-tutorial),   |
+% | MATLAB Central File Exchange. Retrieved February 4, 2020.                                  |
+% | (c) 2015                                                                                   |
+% ----------------------------------------------------------------------------------------------
+
 function num_of_objs(img,handles_ax_data,handles_number_obj)
 
 
